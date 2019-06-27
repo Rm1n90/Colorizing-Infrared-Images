@@ -1,12 +1,12 @@
-# Colorizing Near Infrared Images through a Cyclic Adversarial Approach of Unpaired Samples - CVPR2019
+#### Colorizing Near Infrared Images through a Cyclic Adversarial Approach of Unpaired Samples - CVPR2019
 
 
 
-code will be published soon
+* Code will be published soon!!
 
 
 
-### Citation
+##### Citation
 ```
 @inproceedings{mehri2019colorizing,
   title={Colorizing Near Infrared Images through a Cyclic Adversarial Approach of Unpaired Samples},
